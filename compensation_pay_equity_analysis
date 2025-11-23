@@ -1,0 +1,6 @@
+compensation_pay_equity_analysis/
+│── data/
+│   └── employee_data.csv
+│── scripts/
+│   └── pay_equity_analysis.py
+│── README.md
