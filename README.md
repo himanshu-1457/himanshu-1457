@@ -1,12 +1,25 @@
-- 👋 Hi, I’m @himanshu-1457
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Compensation & Pay Equity Analysis
 
-<!---
-himanshu-1457/himanshu-1457 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+This project analyzes employee salary data to identify:
+- Gender pay gap
+- Salary fairness across roles
+- Impact of experience on salary
+- Role-based average compensation
+- Visualization for clear understanding
+
+## Tools Used
+- Python
+- Pandas
+- Matplotlib
+
+## Files
+- employee_data.csv → Raw dataset
+- pay_equity_analysis.py → Main analysis script
+
+## Output
+- Gender-wise average salary
+- Pay gap percentage
+- Salary vs experience graph
+- Role-based compensation report
+
+This project is useful for HR data analytics portfolios.
