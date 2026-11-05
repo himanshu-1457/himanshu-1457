@@ -1,25 +1,20 @@
-# Compensation & Pay Equity Analysis
+## 🚀 Current Project
 
-This project analyzes employee salary data to identify:
-- Gender pay gap
-- Salary fairness across roles
-- Impact of experience on salary
-- Role-based average compensation
-- Visualization for clear understanding
+### 🛒 Premium E-Commerce Website (In Progress)
 
-## Tools Used
-- Python
-- Pandas
-- Matplotlib
+Currently developing a modern, responsive e-commerce website as my college project.
 
-## Files
-- employee_data.csv → Raw dataset
-- pay_equity_analysis.py → Main analysis script
+**Features:**
+- Modern premium UI (Black, White & Purple)
+- Product categories: Electronics, Fashion, Shoes & Accessories
+- Responsive website design
+- Interactive product sections
+- Shopping cart functionality
+- JavaScript-based interactions
 
-## Output
-- Gender-wise average salary
-- Pay gap percentage
-- Salary vs experience graph
-- Role-based compensation report
+**Technologies:**
+- HTML5
+- CSS3
+- JavaScript
 
-This project is useful for HR data analytics portfolios.
+**Project Status:** 🟡 In Development
